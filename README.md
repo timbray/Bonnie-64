@@ -15,6 +15,10 @@ Bonnie
 ```
 The purpose of the `-r` option is to defeat the effect of filesystems such as ZFS that avoid IO by spotting duplicate blocks in file and writing them only once.
 
+## Documentation
+
+The best way to learn about Bonnie is to search the [author’s blog](https://www.tbray.org/ongoing) for the string “Bonnie”; this yields a full discussion of its history, design, and evolution, as well as of filesystem performance issues generally.
+
 ## Author
 
 Bonnie was originally written by Tim Bray in 1988 and revised several times since then. This version include valuable patches from Phost Feng.
