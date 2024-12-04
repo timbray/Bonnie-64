@@ -4,7 +4,7 @@ A command-line program for Unix-flavored operating systems that attempts to char
 
 ## Usage
 
-```shell
+```
 Bonnie
     -d <directory-name> the directory in which Bonnie should write its test file. Default: .
     -r if set, causes Bonnie to randomize the contents of each buffer it writes. 
