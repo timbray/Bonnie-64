@@ -17,4 +17,4 @@ The purpose of the `-r` option is to defeat the effect of filesystems such as ZF
 
 ## Author
 
-Bonnie was originally written by Tim Bray in 1988 and revised several times since then. This version include vauable patches from Phost Feng.
+Bonnie was originally written by Tim Bray in 1988 and revised several times since then. This version include valuable patches from Phost Feng.
